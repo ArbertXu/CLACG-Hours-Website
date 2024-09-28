@@ -1,0 +1,22 @@
+.about-us-container {
+    background-color: rgb(0, 0, 0);
+    padding: 40px;
+    text-align: center;
+    color: white;
+  }
+  
+  .about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .about-image {
+    max-width: 40%;
+  }
+  
+  .about-text {
+    max-width: 50%;
+    text-align: left;
+  }
